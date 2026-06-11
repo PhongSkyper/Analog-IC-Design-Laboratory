@@ -1,4 +1,4 @@
-# Thiết kế Vi mạch Tương tự (Analog IC Design - EE3207) 📚🔬
+# Thí nghiệm Thiết kế Vi mạch Tương tự (Analog IC Design - EE3207) 📚🔬
 
 Repository này chứa các báo cáo thí nghiệm môn **Thiết kế Vi mạch Tương tự (EE3207)**, học kỳ 252 tại Trường Đại học Bách Khoa - ĐHQG TP.HCM (HCMUT).
 
